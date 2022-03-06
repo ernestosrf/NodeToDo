@@ -65,4 +65,14 @@ module.exports = class TaskController{
 
     }
 
+    static async showDescription(req,res){
+        const id = req.params.id
+
+        const task = await Task.findOne({where: {id:id}, raw: true})
+
+        res.render('tasks/description', {task})
+
+    }
+
+
 }

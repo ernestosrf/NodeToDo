@@ -9,6 +9,7 @@ router.post('/remove', TaskController.removeTask)
 router.get('/edit/:id', TaskController.updateTask)
 router.post('/edit', TaskController.updateTaskPost)
 router.post('/updatestatus', TaskController.toggleTaskStatus)
+router.get('/description/:id', TaskController.showDescription)
 router.get('/', TaskController.showTasks)
 
 module.exports = router

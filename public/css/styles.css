@@ -120,3 +120,8 @@
     text-decoration: line-through;
     color: #ccc;
   }
+  .desc{
+    margin-top: 3em;
+    text-align: justify;
+    color: #693fdb; 
+  }
