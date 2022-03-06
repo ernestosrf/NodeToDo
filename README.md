@@ -39,3 +39,19 @@ Passo 1 - Clicar no botão de Excluir ao lado da tarefa desejada
 
 Resultado:
 ![index](https://user-images.githubusercontent.com/79682382/156932529-621a2d73-09a8-4fcb-bf8c-fada9e97244c.png)
+
+*CONCLUINDO UMA TAREFA*
+
+Passo 1 - Clicar no botão de Concluir ao lado da tarefa desejada
+![print9](https://user-images.githubusercontent.com/79682382/156932885-7c5975b3-adc0-431b-a20a-51b311d3d5e1.png)
+
+Resultado:
+![print10](https://user-images.githubusercontent.com/79682382/156932903-b63ef6bc-9be1-44f3-ae31-7cdbd850b875.png)
+
+*ABRINDO DESCRIÇÃO DA TAREFA*
+
+Passo 1 - Clicar no nome da Tarefa
+![print11](https://user-images.githubusercontent.com/79682382/156932936-868f4521-c24f-4761-b16f-e55c8d2fffbc.png)
+
+Resultado:
+![print12](https://user-images.githubusercontent.com/79682382/156932941-cfaaa800-9002-4730-afa6-18a398f71b11.png)
